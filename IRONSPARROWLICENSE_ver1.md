@@ -6,7 +6,7 @@
 
 ### December 2023 - License Version 1 (ver1)
 
-License Copyright © 2023 -- IronSparrow (written by LittleBread69)
+License Copyright © 2023-2024 -- IronSparrow (written by LittleBread69)
 
 Project Copyright © {InputDate} -- {Organisation name (optional), person's/people's name·s}
 

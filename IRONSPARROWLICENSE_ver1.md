@@ -10,7 +10,7 @@ License Copyright © 2023 -- IronSparrow (written by LittleBread69)
 
 Project Copyright © {InputDate} -- {Organisation name (optional), person's/people's name·s}
 
-**THE SOFTWARE/CODE IS PROVIDED "AS IS".  The authors don't take any responsibility over what this software is used for. Authors aren't responsible for any damages and or consequences that might occur by the use of the software - USE AT YOUR OWN RISK. Anything that is written implicitly cannot be used against the authors/software/project. Please refer to the list below stating what is allowed and what is forbidden. Anything not written in the allowed section isn't allowed unless the author specifies it. (Feel free to ask the authors but don't expect an answer.)**
+**THE SOFTWARE/CODE IS PROVIDED "AS IS".  The authors don't take any responsibility for what this software is used for. Authors aren't responsible for any damages and or consequences that might occur by the use of the software - USE AT YOUR OWN RISK. Anything that is written implicitly cannot be used against the authors/software/project. Please refer to the list below stating what is allowed and what is forbidden. Anything not written in the allowed section isn't allowed unless the author specifies it. (Feel free to ask the authors but don't expect an answer.)**
 This applies to AI too, notably when writing "anyone".
 **The license is not perfect and is subject to change at any time. (This doesn't apply to the project itself.) CHECK THE LICENSE VERSION BEFORE USAGE.**
 
@@ -30,7 +30,7 @@ Below is the list of limitations which has to be taken as stated:
 
  1. Commercial use is forbidden. Exceptions can be made by the authors if they give an explicit authorisation. (You can contact them but don't await an answer.)
  2. Any "for profit" usage falls under the commercial use category.
- 3. Modification of the software or source code is forbidden but it can be granted by the authors. Feel free to ask the authors. (Don't wait for an answer.)
+ 3. Modification of the software or source code is forbidden but it can be granted by the authors. Feel free to ask the authors. (Don't expect an answer.)
  4. Using the project/software/source to harm anyone (including the authors) is forbidden.
  5. The authors aren't liable for what the software/project/source code is used for but can intervene if they believe harm is done.
  6. No warranty is given to anyone using the software/code.

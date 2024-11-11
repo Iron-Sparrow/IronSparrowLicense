@@ -4,9 +4,9 @@
 
 ## Copyright Statement
 
-### December 2023 - License Version 1 (ver1)
+### November 2024 - License Version 1 (revision 1)
 
-License Copyright © 2023-2024 -- IronSparrow (written by LittleBread69)
+License Copyright © 2023-2025 -- IronSparrow (written by LittleBread69)
 
 Project Copyright © {InputDate} -- {Organisation name (optional), person's/people's name·s}
 
@@ -28,7 +28,7 @@ Here follows a list of what is permitted and which has to be understood as state
 
 Below is the list of limitations which has to be taken as stated:
 
- 1. Commercial use is forbidden. Exceptions can be made by the authors if they give an explicit authorisation. (You can contact them but don't await an answer.)
+ 1. Commercial use is forbidden. Exceptions can be made by the authors if they give an explicit authorisation. Contacting the author is suggested.
  2. Any "for profit" usage falls under the commercial use category.
  3. Modification of the software or source code is forbidden but it can be granted by the authors. Feel free to ask the authors. (Don't expect an answer.)
  4. Using the project/software/source to harm anyone (including the authors) is forbidden.
@@ -48,14 +48,16 @@ Here are the requirements that are to be followed:
 
 The **IronSparrow License** is also known as **Iron Sparrow License**.
 **The authors must fill in the contact information section below.**
-By filling in the contact information, the author accepts to be contacted through the provided way but isn't obligated to answer them. The links and contacts need to be valid.
+By filling in the contact information, the author accepts to be contacted through the provided way. The links and contacts need to be valid.
 
 ## Contact information
 
-{At least one needs to be given/filled}
-Email:{to fill}
-Text Messages - Phone:{to fill}
-Calling - Phone: {to fill}
-Fax: {to fill}
-Other: {to fill}
+{At least one needs to be given/filled}:
+ - Email:{to fill}
+ - Text Messages - Phone:{to fill}
+ - Calling - Phone: {to fill}
+ - Fax: {to fill}
+ - Other: {to fill}
+
+
 {If posted on Github (github.com) it is possible to use the ISSUES tab of the repository (if available).}

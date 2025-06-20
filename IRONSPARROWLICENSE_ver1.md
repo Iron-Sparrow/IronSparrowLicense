@@ -1,10 +1,10 @@
 # IronSparrow License
 
-***Before downloading, copying, inspiring or using this software, you need to read and accept the license.***
+***Before downloading, copying, inspiring or using this software, you need to read and accept the [license](https://github.com/Iron-Sparrow/IronSparrowLicense/blob/main/IRONSPARROWLICENSE_ver1.md).***
 
 ## Copyright Statement
 
-### June 2025 - License Version 1 (revision 2)
+### June 2025 - License Version 1 (revision 3)
 
 License Copyright © 2023-2025 -- IronSparrow (written by LittleBread69)
 
@@ -30,7 +30,7 @@ Below is the list of limitations which has to be taken as stated:
 
  1. Commercial use is forbidden. Exceptions can be made by the authors if they give an explicit authorisation. Contacting the author is suggested.
  2. Any "for-profit" usage falls under the commercial use category.
- 3. Modification of the software or source code is forbidden but it can be granted by the authors. Feel free to ask the authors. (Don't expect an answer.)
+ 3. Modification of the software or source code is forbidden, but it can be granted by the authors. Feel free to ask the authors. (Don't expect an answer.)
  4. Using the project/software/source to harm anyone (including the authors) is forbidden.
  5. The authors aren't liable for what the software/project/source code is used for, but can intervene if they believe harm is done.
  6. No warranty is given to anyone using the software/code.
